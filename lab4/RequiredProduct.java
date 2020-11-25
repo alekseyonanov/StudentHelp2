@@ -1,5 +1,3 @@
-package lab4_2;
-
 public class RequiredProduct {
     private String name;
     private int count;
